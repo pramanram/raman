@@ -1,4 +1,3 @@
-package guvi1;
 import java.util.*;
 public class Positive {
 	public static void main(String[] args) {
@@ -13,5 +12,4 @@ public class Positive {
 			System.out.println("Negative");
 		}
 	}
-
 }
